@@ -1,0 +1,14 @@
+/home/edusilva/Project/MyStart/bin/Debug/net8.0/MyStart
+/home/edusilva/Project/MyStart/bin/Debug/net8.0/MyStart.deps.json
+/home/edusilva/Project/MyStart/bin/Debug/net8.0/MyStart.runtimeconfig.json
+/home/edusilva/Project/MyStart/bin/Debug/net8.0/MyStart.dll
+/home/edusilva/Project/MyStart/bin/Debug/net8.0/MyStart.pdb
+/home/edusilva/Project/MyStart/obj/Debug/net8.0/MyStart.GeneratedMSBuildEditorConfig.editorconfig
+/home/edusilva/Project/MyStart/obj/Debug/net8.0/MyStart.AssemblyInfoInputs.cache
+/home/edusilva/Project/MyStart/obj/Debug/net8.0/MyStart.AssemblyInfo.cs
+/home/edusilva/Project/MyStart/obj/Debug/net8.0/MyStart.csproj.CoreCompileInputs.cache
+/home/edusilva/Project/MyStart/obj/Debug/net8.0/MyStart.dll
+/home/edusilva/Project/MyStart/obj/Debug/net8.0/refint/MyStart.dll
+/home/edusilva/Project/MyStart/obj/Debug/net8.0/MyStart.pdb
+/home/edusilva/Project/MyStart/obj/Debug/net8.0/MyStart.genruntimeconfig.cache
+/home/edusilva/Project/MyStart/obj/Debug/net8.0/ref/MyStart.dll
