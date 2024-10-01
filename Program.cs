@@ -11,20 +11,6 @@ namespace PrimeiroPrograma
             while (operation != 0)
             {
 
-                System.Console.WriteLine(" Digite o primeiro valor: ");
-                double firstvalue = 0;
-                while (!double.TryParse(Console.ReadLine(), out firstvalue))
-                {
-                    System.Console.WriteLine("Numero invalido. Por favor digite um numero ");
-                }
-
-                System.Console.WriteLine("Digite o segundo valor: ");
-                double secondvalue = 0;
-                while (!double.TryParse(Console.ReadLine(), out secondvalue))
-                {
-                    System.Console.WriteLine("Numero invalido. Por favor digite um numero ");
-                }
-
                 System.Console.WriteLine(" \n 1 - Soma \n 2 - Subtrair \n 3 - Multiplicar \n 4 - Dividir \n 5 - Sair \n");
 
                 System.Console.Write("Digite a operação desejada:  ");
@@ -40,6 +26,19 @@ namespace PrimeiroPrograma
                 }
                 else
                 {
+                    System.Console.WriteLine(" Digite o primeiro valor: ");
+                double firstvalue = 0;
+                while (!double.TryParse(Console.ReadLine(), out firstvalue))
+                {
+                    System.Console.WriteLine("Numero invalido. Por favor digite um numero ");
+                }
+
+                System.Console.WriteLine("Digite o segundo valor: ");
+                double secondvalue = 0;
+                while (!double.TryParse(Console.ReadLine(), out secondvalue))
+                {
+                    System.Console.WriteLine("Numero invalido. Por favor digite um numero ");
+                }
 
                     double result = 0;
 
